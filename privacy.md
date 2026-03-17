@@ -1,5 +1,5 @@
-#Light Painting Privacy Policy
-###Ordered
+# Light Painting Privacy Policy
+### Policy
 1. The app needs access to the camera to fulfill its main purpose (taking photos).
 2. The app needs access to the device storage in order to save the photos you take.
 3. The app only accesses (reads and writes) files in the directory you tell the app to save your photos to.
